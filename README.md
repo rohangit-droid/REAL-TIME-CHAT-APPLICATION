@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# REAL TIME CHAT APPLICATION
+*COMPANY*: CODETWCH IT SOLUTIONS
+*NAME*: ROHAN MANDAL
+*INTERN ID*:CT06DG39
+*DOMAIN*: FRONTEND DEVELOPMENT
+*DURATION*: 6 WEEKS
+*MENTOR*: NEELA SANTOSH
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,3 +74,6 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+#OUTPUT
